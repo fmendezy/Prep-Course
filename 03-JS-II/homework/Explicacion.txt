@@ -1,0 +1,14 @@
+for:
+
+El concepto 'for' es un bucle o también conocido como repetición, que nos permite como bien indica su nombre, repetir acciones, principalmente usado para conteos,
+ en el puedes indicar el numero con el que desees que se inicie, cómo también el numero final, se utiliza la variable 'i' para poder definir el numero que irá incrementandose
+ automaticamente hasta cumplir la condición final.
+
+`&&`, `||`, `!`:
+ Los conceptos `&&`, `||`, `!` se utilizan para dar instrucciones al interprete para que entienda como manejar los datos y las instrucciones que le estemos dando.
+ Por ejemplo, podemos decir al interprete que nos gustan 2 cosas, para ellos indicamos que en el cas ode un caramelo, nos gustan las "paletas" Y las gaseosas"
+ para poder indicarle que nos gusta una Y la otra, le decimos "Y", entonces en la programación, esa letra se debe representar con un "&&" quedando cómo 'paletas && gaseosas'
+ Eso también se utiliza con el "O" para elegir uno u el otro, en programación se utiliza "||" para definir el "O", ejemplo: te gusta la Cocacola o la Pepsi? (cocacola || pepsi)
+
+ En el caso del simbolo de exclamación '!' este significa que "NO" y se utiliza para por ejemplo indicar que 1 !== 1, aqui estamos diciendo una contradicción,
+ en este ejemplo estamos indicando que 1 no es igual que 1, si, lo estoy haciendo aproposito para explicarlo.
